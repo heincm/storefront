@@ -47,7 +47,7 @@ Running this application will:
 Running this app will provide the user with the following prompts: 
 
    * View Product Sales by Department
-   
+
    * Create New Department
 
    * Exit
