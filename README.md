@@ -58,3 +58,5 @@ Selecting `Create New Department` will create an entirely new department in the 
 
 Selecting `Exit` will exit the process. 
 
+### See the app in action
+You can see a video of the app in action [here](https://drive.google.com/file/d/1QBb4oLxEPZ4cPszPmb46h198Dy9-CY33/view)
